@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a5c175d-234a-4374-af7b-23e7165b915f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ms-stage/src/main/resources/application.properties" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1m6XbMkQe272phsk8VDP0itQZ8M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;mariadb" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="sn.ucad.informatique.soa.msnote" />
+      <recent name="sn.ucad.informatique.soa.msstage" />
+      <recent name="sn.ucad.informatique.soa.msetudiant" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MsNoteApplication">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsEtudiantApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ms-etudiant" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sn.ucad.informatique.soa.msetudiant.MsEtudiantApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsNoteApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ms-note" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sn.ucad.informatique.soa.msnote.MsNoteApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsStageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ms-stage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sn.ucad.informatique.soa.msstage.MsStageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a5c175d-234a-4374-af7b-23e7165b915f" name="Default Changelist" comment="" />
+      <created>1608815085302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608815085302</updated>
+      <workItem from="1608815086401" duration="261000" />
+      <workItem from="1608815407505" duration="15145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="803" y="438" key="#Assign_Data_Sources" timestamp="1608821875295">
+      <screen x="0" y="25" width="1792" height="1015" />
+    </state>
+    <state x="803" y="438" key="#Assign_Data_Sources/1792.25.1920.1055/0.25.1792.1015@0.25.1792.1015" timestamp="1608821875295" />
+    <state x="341" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608827987020">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state x="2157" y="122" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.25.1920.1055/0.25.1792.1015@0.25.1792.1015" timestamp="1608821588180" />
+    <state x="341" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.25.1920.1055/0.25.1792.1024@0.25.1792.1024" timestamp="1608827987020" />
+    <state x="709" y="265" key="#com.intellij.ide.util.MemberChooser" timestamp="1608832946357">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state x="709" y="263" key="#com.intellij.ide.util.MemberChooser/1792.25.1920.1055/0.25.1792.1013@0.25.1792.1013" timestamp="1608819410679" />
+    <state x="709" y="263" key="#com.intellij.ide.util.MemberChooser/1792.25.1920.1055/0.25.1792.1015@0.25.1792.1015" timestamp="1608822233721" />
+    <state x="709" y="265" key="#com.intellij.ide.util.MemberChooser/1792.25.1920.1055/0.25.1792.1024@0.25.1792.1024" timestamp="1608832946357" />
+    <state width="1331" height="354" key="GridCell.Tab.0.bottom" timestamp="1608833752661">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state width="1331" height="266" key="GridCell.Tab.0.bottom/1792.25.1920.1055/0.25.1792.1015@0.25.1792.1015" timestamp="1608821860872" />
+    <state width="1331" height="266" key="GridCell.Tab.0.bottom/1792.25.1920.1055/0.25.1792.1017@0.25.1792.1017" timestamp="1608823406437" />
+    <state width="1204" height="266" key="GridCell.Tab.0.bottom/1792.25.1920.1055/0.25.1792.1019@0.25.1792.1019" timestamp="1608823714591" />
+    <state width="1331" height="354" key="GridCell.Tab.0.bottom/1792.25.1920.1055/0.25.1792.1024@0.25.1792.1024" timestamp="1608833752661" />
+    <state width="1331" height="354" key="GridCell.Tab.0.center" timestamp="1608833752660">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state width="1331" height="266" key="GridCell.Tab.0.center/1792.25.1920.1055/0.25.1792.1015@0.25.1792.1015" timestamp="1608821860871" />
+    <state width="1331" height="266" key="GridCell.Tab.0.center/1792.25.1920.1055/0.25.1792.1017@0.25.1792.1017" timestamp="1608823406436" />
+    <state width="1204" height="266" key="GridCell.Tab.0.center/1792.25.1920.1055/0.25.1792.1019@0.25.1792.1019" timestamp="1608823714590" />
+    <state width="1331" height="354" key="GridCell.Tab.0.center/1792.25.1920.1055/0.25.1792.1024@0.25.1792.1024" timestamp="1608833752660" />
+    <state width="1331" height="354" key="GridCell.Tab.0.left" timestamp="1608833752660">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state width="1331" height="266" key="GridCell.Tab.0.left/1792.25.1920.1055/0.25.1792.1015@0.25.1792.1015" timestamp="1608821860870" />
+    <state width="1331" height="266" key="GridCell.Tab.0.left/1792.25.1920.1055/0.25.1792.1017@0.25.1792.1017" timestamp="1608823406436" />
+    <state width="1204" height="266" key="GridCell.Tab.0.left/1792.25.1920.1055/0.25.1792.1019@0.25.1792.1019" timestamp="1608823714589" />
+    <state width="1331" height="354" key="GridCell.Tab.0.left/1792.25.1920.1055/0.25.1792.1024@0.25.1792.1024" timestamp="1608833752660" />
+    <state width="1331" height="354" key="GridCell.Tab.0.right" timestamp="1608833752661">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state width="1331" height="266" key="GridCell.Tab.0.right/1792.25.1920.1055/0.25.1792.1015@0.25.1792.1015" timestamp="1608821860872" />
+    <state width="1331" height="266" key="GridCell.Tab.0.right/1792.25.1920.1055/0.25.1792.1017@0.25.1792.1017" timestamp="1608823406437" />
+    <state width="1204" height="266" key="GridCell.Tab.0.right/1792.25.1920.1055/0.25.1792.1019@0.25.1792.1019" timestamp="1608823714590" />
+    <state width="1331" height="354" key="GridCell.Tab.0.right/1792.25.1920.1055/0.25.1792.1024@0.25.1792.1024" timestamp="1608833752661" />
+    <state width="1331" height="354" key="GridCell.Tab.1.bottom" timestamp="1608833752662">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state width="1331" height="266" key="GridCell.Tab.1.bottom/1792.25.1920.1055/0.25.1792.1015@0.25.1792.1015" timestamp="1608821860874" />
+    <state width="1331" height="266" key="GridCell.Tab.1.bottom/1792.25.1920.1055/0.25.1792.1017@0.25.1792.1017" timestamp="1608823406440" />
+    <state width="1331" height="354" key="GridCell.Tab.1.bottom/1792.25.1920.1055/0.25.1792.1024@0.25.1792.1024" timestamp="1608833752662" />
+    <state width="1331" height="354" key="GridCell.Tab.1.center" timestamp="1608833752661">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state width="1331" height="266" key="GridCell.Tab.1.center/1792.25.1920.1055/0.25.1792.1015@0.25.1792.1015" timestamp="1608821860873" />
+    <state width="1331" height="266" key="GridCell.Tab.1.center/1792.25.1920.1055/0.25.1792.1017@0.25.1792.1017" timestamp="1608823406439" />
+    <state width="1331" height="354" key="GridCell.Tab.1.center/1792.25.1920.1055/0.25.1792.1024@0.25.1792.1024" timestamp="1608833752661" />
+    <state width="1331" height="354" key="GridCell.Tab.1.left" timestamp="1608833752661">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state width="1331" height="266" key="GridCell.Tab.1.left/1792.25.1920.1055/0.25.1792.1015@0.25.1792.1015" timestamp="1608821860873" />
+    <state width="1331" height="266" key="GridCell.Tab.1.left/1792.25.1920.1055/0.25.1792.1017@0.25.1792.1017" timestamp="1608823406438" />
+    <state width="1331" height="354" key="GridCell.Tab.1.left/1792.25.1920.1055/0.25.1792.1024@0.25.1792.1024" timestamp="1608833752661" />
+    <state width="1331" height="354" key="GridCell.Tab.1.right" timestamp="1608833752662">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state width="1331" height="266" key="GridCell.Tab.1.right/1792.25.1920.1055/0.25.1792.1015@0.25.1792.1015" timestamp="1608821860873" />
+    <state width="1331" height="266" key="GridCell.Tab.1.right/1792.25.1920.1055/0.25.1792.1017@0.25.1792.1017" timestamp="1608823406439" />
+    <state width="1331" height="354" key="GridCell.Tab.1.right/1792.25.1920.1055/0.25.1792.1024@0.25.1792.1024" timestamp="1608833752662" />
+    <state width="229" height="457" key="HiddenNamespacesPopup" timestamp="1608820368914">
+      <screen x="0" y="25" width="1792" height="1015" />
+    </state>
+    <state width="229" height="457" key="HiddenNamespacesPopup/1792.25.1920.1055/0.25.1792.1015@0.25.1792.1015" timestamp="1608820368914" />
+    <state x="384" y="123" key="SettingsEditor" timestamp="1608829205345">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state x="384" y="122" key="SettingsEditor/1792.25.1920.1055/0.25.1792.1013@0.25.1792.1013" timestamp="1608815578836" />
+    <state x="384" y="123" key="SettingsEditor/1792.25.1920.1055/0.25.1792.1024@0.25.1792.1024" timestamp="1608829205345" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1608828978218">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/1792.25.1920.1055/0.25.1792.1024@0.25.1792.1024" timestamp="1608828978218" />
+    <state x="561" y="267" width="670" height="676" key="search.everywhere.popup" timestamp="1608831178405">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state x="561" y="267" width="670" height="676" key="search.everywhere.popup/1792.25.1920.1055/0.25.1792.1024@0.25.1792.1024" timestamp="1608831178405" />
+    <state x="626" y="459" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1608829282052">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state x="626" y="459" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1792.25.1920.1055/0.25.1792.1024@0.25.1792.1024" timestamp="1608829282052" />
+  </component>
+</project>
